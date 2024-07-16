@@ -54,6 +54,6 @@ The module facilitates the creation of customer accounts on a pre-prepared Jelly
 
 >Jellyfin minimal version: 10+
 
-![image](https://github.com/PUQ-sp-z-o-o/WHMCS-Module-Jellyfin-Family/assets/81689153/7d0e708b-fda4-4916-8145-72f96c61fdd5)
+![image](https://github.com/user-attachments/assets/f345e0f4-275e-4ada-a4f0-3505e1c2c91d)
 
 ![image](https://github.com/PUQ-sp-z-o-o/WHMCS-Module-Jellyfin-Family/assets/81689153/271789ef-e93e-4984-8762-a176a74578f9)
